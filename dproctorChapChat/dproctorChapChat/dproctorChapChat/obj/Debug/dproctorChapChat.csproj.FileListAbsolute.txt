@@ -1,0 +1,12 @@
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\bin\Debug\dproctorChapChat.exe.config
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\bin\Debug\dproctorChapChat.exe
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\bin\Debug\dproctorChapChat.pdb
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\obj\Debug\dproctorChapChat.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\obj\Debug\dproctorChapChat.Form1.resources
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\obj\Debug\dproctorChapChat.Properties.Resources.resources
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\obj\Debug\dproctorChapChat.csproj.GenerateResource.Cache
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\obj\Debug\dproctorChapChat.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\obj\Debug\dproctorChapChat.exe
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\obj\Debug\dproctorChapChat.pdb
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\obj\Debug\dproctorChapChat.NewUser.resources
+E:\Documents\Visual Programming\dproctorChapChat\dproctorChapChat\dproctorChapChat\obj\Debug\dproctorChapChat.Preferences.resources
